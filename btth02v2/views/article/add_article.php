@@ -9,7 +9,7 @@
 <body>
     <form action="">
         <h3>Thêm Bài viết</h3>
-        Tiêu đề: <input type="text" name="" id="">
+        Tiêu đề: <input type="text" name="" id="" >
     </form>
 </body>
 </html>
